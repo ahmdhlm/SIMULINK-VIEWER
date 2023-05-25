@@ -14,6 +14,6 @@ GUI with javafx.
 - Line Class
 - BranchedLine Class
 - ConstantBlock Class
-### Ahmed Gamal Helmy
+### Ahmed Gamal Helmy 2000082
 - Application interface
 - SaturationBlock Class
