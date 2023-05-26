@@ -19,8 +19,6 @@ GUI with javafx.
 - BranchedLine Class
 - ConstantBlock Class
 ### Ahmed Gamal Helmy 2000082
+- Block Class
 - Application interface
 - SaturationBlock Class
-## Model view inside Simulink
-![image](https://github.com/ahmdhlm/SIMULINK-VIEWER/assets/105172397/abb578a0-1756-45e8-b64f-fdd06f090dbc)
-![image](https://github.com/ahmdhlm/SIMULINK-VIEWER/assets/105172397/3a8b4b7f-0e1b-4504-8188-d13b3cd29bdd)
