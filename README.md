@@ -11,7 +11,6 @@ GUI with javafx.
 - Also , it has 2 static methods : one to draw normal line with our style and the other to draw line with arrow
 ## Contributions:
 ### Yousif Hazim Nazar 2001741
-- Block Class
 - AddBlock Class
 - nonBranchedLine Class Class
 ### Mohamed Abdel Hamid 2001087
