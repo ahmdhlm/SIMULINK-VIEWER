@@ -15,6 +15,7 @@ GUI with javafx.
 ### Yousif Hazim Nazar 2001741
 - AddBlock Class.
 - nonBranchedLine Class.
+- main Application
 ### Mohamed Abdel Hamid 2001087
 - Line Class.
 - BranchedLine Class.
@@ -23,6 +24,10 @@ GUI with javafx.
 - Block Class.
 - Application interface.
 - SaturationBlock Class.
+### Kirollos George Louis 2000356
+- Scope Class
+- Unit Delay Class
+- main Application
 
 ![Interface](https://github.com/ahmdhlm/SIMULINK-VIEWER/assets/111571591/7e98b148-6147-487b-9766-2150cdb3c197)
 ![Simulink](https://github.com/ahmdhlm/SIMULINK-VIEWER/assets/111571591/898c7968-ed07-435f-9740-c80d3657a282)
