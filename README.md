@@ -20,3 +20,5 @@ GUI with javafx.
 ### Ahmed Gamal Helmy 2000082
 - Application interface
 - SaturationBlock Class
+
+![image](https://github.com/ahmdhlm/SIMULINK-VIEWER/assets/105172397/14da31fd-4f29-40df-b4d3-83a631a86a37)
