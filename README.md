@@ -5,7 +5,9 @@ It's tool which reads mdl file comes from SIMULINK and draw it.
 GUI with javafx.
 ## Most Important Classes:
 ### APP:
+- The Main class of the programe.
 ### Block:
+- Parent class of Blocks in which Blocks class take from it.
 ### Lines:
 - Parent class of Lines in which we detect the type of line (Branched or NonBranched) , then call the type class
 - Also , it has 2 static methods : one to draw normal line with our style and the other to draw line with arrow
